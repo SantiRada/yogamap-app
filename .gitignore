@@ -1,35 +1,33 @@
-# Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
-
 # dependencies
-node_modules/
+yogamap/node_modules/
 
 # Expo
-.expo/
-dist/
-web-build/
+yogamap/.expo/
+yogamap/dist/
+yogamap/web-build/
 
 # Native
-*.orig.*
-*.jks
-*.p8
-*.p12
-*.key
-*.mobileprovision
+yogamap/*.orig.*
+yogamap/*.jks
+yogamap/*.p8
+yogamap/*.p12
+yogamap/*.key
+yogamap/*.mobileprovision
 
 # Metro
-.metro-health-check*
+yogamap/.metro-health-check*
 
 # debug
-npm-debug.*
-yarn-debug.*
-yarn-error.*
+yogamap/npm-debug.*
+yogamap/yarn-debug.*
+yogamap/yarn-error.*
 
 # macOS
-.DS_Store
-*.pem
+yogamap/.DS_Store
+yogamap/*.pem
 
 # local env files
-.env*.local
+yogamap/.env*.local
 
 # typescript
-*.tsbuildinfo
+yogamap/*.tsbuildinfo
