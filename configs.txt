@@ -1,0 +1,3 @@
+vibrationSetting (Predeterminada, Desactivar, Corta, Larga)
+muteSetting (true, false)
+tonoSetting (nombre_del_tono)
